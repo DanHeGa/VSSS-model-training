@@ -1,0 +1,12 @@
+names:
+- robot
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: vsss-inimodel-y1u7t
+  url: https://universe.roboflow.com/vsss/vsss-inimodel-y1u7t/dataset/5
+  version: 5
+  workspace: vsss
+test: ../test/images
+train: ../train/images
+val: ../valid/images
